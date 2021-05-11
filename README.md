@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="https://map.ilieff.fr/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/carlolis/mapty">
+    <img src="https://map.ilieff.fr/logo.png" alt="Logo" width="80" height="160">
   </a>
 
   <h3 align="center">Mapty</h3>
@@ -12,7 +12,7 @@
 <br />
     <a href="https://map.ilieff.fr/">View Demo</a>
     ·
-    <a href="https://github.com/carlolis/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/carlolis/mapty/issues">Report Bug</a>
     ·
   </p>
 </p>
